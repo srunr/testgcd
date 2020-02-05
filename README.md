@@ -1,2 +1,2 @@
-# testgcd
-Test og various versions of GCD algoritms in Ada2012
+# Testgcd
+Test of various versions of GCD algoritms in Ada2012
